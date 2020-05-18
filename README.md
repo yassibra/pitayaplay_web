@@ -1,4 +1,4 @@
-# Pitaya Play Partie Front-END (à utiliser avec la parti Back-END pitayaplay_api)
+# Pitaya Play Web | Partie Front-END (à utiliser avec la partie Back-END pitayaplay_api)
 
 
 ### Installation
