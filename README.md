@@ -7,20 +7,14 @@ Avant tous, il vous faudra installer les librairies dont aura besoin cette appli
 
 Pour ce faire, executer la commande suivante :
 
-```
-npm install
-```
+``` npm install ```
 
 ### Lancer l'application
 
 Pour lancer l'application vous devrez utiliser la commande suivante :
 
-```
-npm run serve
-```
+``` npm run serve ```
 
 Puis, vous rendre à l'adresse suivante :
 
-```
-http:/localhost:8080
-```
+``` http:/localhost:8080 ```
