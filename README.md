@@ -1,5 +1,9 @@
 # Pitaya Play Web | Partie Front-END (à utiliser avec la partie Back-END pitayaplay_api)
 
+<p align="center">
+  
+  <img src="oVgROV3nky.gif" width="1080px" />
+</p>
 
 ### Installation
 
